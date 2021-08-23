@@ -1,4 +1,4 @@
-# Danielfrg Formulas
+# danielfrg Formulas
 
 ## How do I install these formulae?
 `brew install danielfrg/formulas/<formula>`
